@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "807790732054",
+    "firebase_url": "https://coin-sorter-b3ffc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "coin-sorter-b3ffc",
+    "storage_bucket": "coin-sorter-b3ffc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807790732054:android:311635b58be94b13552637",
+        "android_client_info": {
+          "package_name": "com.example.coin_sorter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1TrShYT1TU6el923icVlY4Kj_5wUdo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807790732054:android:9cad625f26e0a17b552637",
+        "android_client_info": {
+          "package_name": "com.example.moneyhays"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1TrShYT1TU6el923icVlY4Kj_5wUdo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
